@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Interpol.DAL.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -15,11 +16,21 @@ namespace Interpol {
             Configuration = configuration;
         }
 
-        public IConfiguration Configuration { get; }
 
+        public IConfiguration Configuration { get; }
+        public readonly string CorsOrigins = "DevOrigins";
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services) {
-            services.AddControllersWithViews();
+            var connString = Configuration.GetConnectionString("DefaultConnection");
+            services.AddScoped<IDbService, DbService>(s => new DbService(connString));
+
+            services.AddCors(options => {
+                options.AddPolicy("DevOrigins",
+                builder => {
+                    builder.WithOrigins("http://localhost:4200").AllowAnyHeader().AllowAnyMethod();
+                });
+            });
+            services.AddControllers();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

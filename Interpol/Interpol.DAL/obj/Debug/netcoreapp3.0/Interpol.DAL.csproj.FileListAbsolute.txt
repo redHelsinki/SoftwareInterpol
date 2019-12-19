@@ -1,0 +1,8 @@
+D:\Documenti\ITS\DevOps\SoftwareInterpol\Interpol\Interpol.DAL\bin\Debug\netcoreapp3.0\Interpol.DAL.deps.json
+D:\Documenti\ITS\DevOps\SoftwareInterpol\Interpol\Interpol.DAL\bin\Debug\netcoreapp3.0\Interpol.DAL.dll
+D:\Documenti\ITS\DevOps\SoftwareInterpol\Interpol\Interpol.DAL\obj\Debug\netcoreapp3.0\Interpol.DAL.csprojAssemblyReference.cache
+D:\Documenti\ITS\DevOps\SoftwareInterpol\Interpol\Interpol.DAL\obj\Debug\netcoreapp3.0\Interpol.DAL.AssemblyInfoInputs.cache
+D:\Documenti\ITS\DevOps\SoftwareInterpol\Interpol\Interpol.DAL\obj\Debug\netcoreapp3.0\Interpol.DAL.AssemblyInfo.cs
+D:\Documenti\ITS\DevOps\SoftwareInterpol\Interpol\Interpol.DAL\bin\Debug\netcoreapp3.0\Interpol.DAL.pdb
+D:\Documenti\ITS\DevOps\SoftwareInterpol\Interpol\Interpol.DAL\obj\Debug\netcoreapp3.0\Interpol.DAL.dll
+D:\Documenti\ITS\DevOps\SoftwareInterpol\Interpol\Interpol.DAL\obj\Debug\netcoreapp3.0\Interpol.DAL.pdb
