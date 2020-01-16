@@ -6,3 +6,11 @@ D:\Documenti\ITS\DevOps\SoftwareInterpol\Interpol\Interpol.DAL\obj\Debug\netcore
 D:\Documenti\ITS\DevOps\SoftwareInterpol\Interpol\Interpol.DAL\bin\Debug\netcoreapp3.0\Interpol.DAL.pdb
 D:\Documenti\ITS\DevOps\SoftwareInterpol\Interpol\Interpol.DAL\obj\Debug\netcoreapp3.0\Interpol.DAL.dll
 D:\Documenti\ITS\DevOps\SoftwareInterpol\Interpol\Interpol.DAL\obj\Debug\netcoreapp3.0\Interpol.DAL.pdb
+C:\Users\karen\Desktop\ITS\CyberSecurity\SoftwareInterpol\SoftwareInterpol\Interpol\Interpol.DAL\bin\Debug\netcoreapp3.0\Interpol.DAL.deps.json
+C:\Users\karen\Desktop\ITS\CyberSecurity\SoftwareInterpol\SoftwareInterpol\Interpol\Interpol.DAL\bin\Debug\netcoreapp3.0\Interpol.DAL.dll
+C:\Users\karen\Desktop\ITS\CyberSecurity\SoftwareInterpol\SoftwareInterpol\Interpol\Interpol.DAL\bin\Debug\netcoreapp3.0\Interpol.DAL.pdb
+C:\Users\karen\Desktop\ITS\CyberSecurity\SoftwareInterpol\SoftwareInterpol\Interpol\Interpol.DAL\obj\Debug\netcoreapp3.0\Interpol.DAL.csprojAssemblyReference.cache
+C:\Users\karen\Desktop\ITS\CyberSecurity\SoftwareInterpol\SoftwareInterpol\Interpol\Interpol.DAL\obj\Debug\netcoreapp3.0\Interpol.DAL.AssemblyInfoInputs.cache
+C:\Users\karen\Desktop\ITS\CyberSecurity\SoftwareInterpol\SoftwareInterpol\Interpol\Interpol.DAL\obj\Debug\netcoreapp3.0\Interpol.DAL.AssemblyInfo.cs
+C:\Users\karen\Desktop\ITS\CyberSecurity\SoftwareInterpol\SoftwareInterpol\Interpol\Interpol.DAL\obj\Debug\netcoreapp3.0\Interpol.DAL.dll
+C:\Users\karen\Desktop\ITS\CyberSecurity\SoftwareInterpol\SoftwareInterpol\Interpol\Interpol.DAL\obj\Debug\netcoreapp3.0\Interpol.DAL.pdb
