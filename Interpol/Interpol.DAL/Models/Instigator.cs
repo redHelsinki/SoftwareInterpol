@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace Interpol.DAL.Models {
-    public class Outcome {
+    public class Instigator {
         public int Id { get; set; }
-        public string Label { get; set; }
+        public int FileId { get; set; }
+        public int FactionId { get; set; }
         public bool IsDeleted { get; set; }
-
     }
 }
